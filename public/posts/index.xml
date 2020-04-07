@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Commodore 64</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on Commodore 64</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Apr 2020 18:23:05 +0200</lastBuildDate>
+    
+	<atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Test Post</title>
+      <link>http://example.org/posts/test-post/</link>
+      <pubDate>Tue, 07 Apr 2020 18:23:05 +0200</pubDate>
+      
+      <guid>http://example.org/posts/test-post/</guid>
+      <description>This is just a test post { &amp;#34;name&amp;#34;: &amp;#34;darko&amp;#34;, &amp;#34;location&amp;#34; : &amp;#34;berlin&amp;#34; } </description>
+    </item>
+    
+    <item>
+      <title>Hello Stream</title>
+      <link>http://example.org/posts/hello-stream/</link>
+      <pubDate>Tue, 07 Apr 2020 18:17:05 +0200</pubDate>
+      
+      <guid>http://example.org/posts/hello-stream/</guid>
+      <description>Hello World Hello world and welcome to my first post.
+10 PRINT &amp;quot;HELLO WORLD&amp;quot; 20 GOTO 10 #include&amp;lt;stdio.h&amp;gt; main() { printf(&amp;#34;Hello World&amp;#34;); } </description>
+    </item>
+    
+  </channel>
+</rss>
